@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JDBC api
 - 💬 Ask me about everything
 - ⚡ Fun fact: I have a twitch channel
-- - 🔭 I’m currently working on my own Modpack of Minecraft
+- 🔭 I’m currently working on my own Modpack of Minecraft
 <!--
 **BabaProg/BabaProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
