@@ -4,7 +4,10 @@
 - ⚡ Fun fact: I have a twitch channel
 - 🔭 I’m currently working on my own Modpack of Minecraft
 
+#### > 18 y.o French Computer Science Student
+
 </br>
+
 ## Languages & Tools 💻:</br>
 
 <p align="center">
@@ -17,7 +20,19 @@
 </p>
 </br>
 
+## Contact Me :
 
+<p>
+  Twitter : @@Baba_prog
+
+</p>
+</br>
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Ninhache&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
 <!--
 **BabaProg/BabaProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
