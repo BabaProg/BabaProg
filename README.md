@@ -23,7 +23,7 @@
 ## Contact Me :
 
 <p>
-  Twitter : @@Baba_prog
+  Twitter : @Baba_prog
 
 </p>
 </br>
