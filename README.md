@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I have a twitch channel
 - 🔭 I’m currently working on my own Modpack of Minecraft
 
-#### > 18 y.o French Computer Science Student
+#### > 19 y.o French Computer Science Student
 
 </br>
 
