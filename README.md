@@ -1,8 +1,7 @@
 ### Hi I'm BabaProg 👋
-- 🌱 I’m currently learning JDBC api
 - 💬 Ask me about everything
 - ⚡ Fun fact: I have a twitch channel
-- 🔭 I’m currently working on my few API Javascript
+- 🔭 I’m currently working on few API Javascript
 
 #### > 19 y.o French Computer Science Student
 
